@@ -79,7 +79,7 @@ button{
 }
 
 @font-face {
-  font-family: 'MyFont';
+  font-family: 'CustomFontName';
   src: url('Technology-Bold.ttf') format('truetype');
 }
 
